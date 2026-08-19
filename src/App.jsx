@@ -10,6 +10,8 @@ import { portfolio, skills, projects, certifications } from './data/portfolioDat
 
 const navItems = ['About', 'Skills', 'Projects', 'Experience', 'Certifications', 'Education', 'Contact']
 const iconMap = { Code2, LayoutTemplate, ServerCog, BrainCircuit, Sparkles, Wrench }
+const Github = FaGithub
+const Linkedin = FaLinkedin
 const reveal = { hidden: { opacity: 0, y: 22 }, visible: { opacity: 1, y: 0, transition: { duration: 0.55, ease: 'easeOut' } } }
 
 function SectionHeading({ kicker, title, copy }) {
