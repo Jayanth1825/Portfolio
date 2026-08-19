@@ -40,7 +40,7 @@ export const projects = [
 ]
 
 export const certifications = [
-  { name: 'Salesforce AI Associate', organization: 'Salesforce', year: 'Year to add', link: '#' },
-  { name: 'Azure DevOps Engineer Expert', organization: 'Microsoft', year: 'Year to add', link: '#' },
-  { name: 'Advanced Automation Professional', organization: 'Automation Anywhere', year: 'Year to add', link: '#' },
+  { name: 'Salesforce AI Associate', organization: 'Salesforce', year: 'Year to add', link: 'certifications/salesforce-ai-associate.pdf' },
+  { name: 'Azure DevOps Engineer Expert', organization: 'Microsoft', year: 'Year to add', link: 'certifications/azure-devops-engineer-expert.pdf' },
+  { name: 'Advanced Automation Professional', organization: 'Automation Anywhere', year: 'Year to add', link: 'certifications/advanced-automation-professional.pdf' },
 ]
